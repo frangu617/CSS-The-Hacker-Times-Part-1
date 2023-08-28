@@ -85,3 +85,7 @@ main img {
 .even-more-articles img {
     width: 100%;
 }
+
+#author {
+    color: red;
+}
