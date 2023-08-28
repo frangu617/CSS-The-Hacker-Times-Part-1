@@ -43,8 +43,8 @@ a {
 }
 
 nav {
-    border-top: 5px solid black;
-    border-bottom: 5px solid black;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
 
 }
 
@@ -88,4 +88,21 @@ main img {
 
 #author {
     color: red;
+}
+
+footer {
+    text-align: justify;
+    padding-bottom: 15px;
+    border-top: 1px solid gray;
+}
+
+footer li {
+    display: inline;
+    color: #777;
+    padding-left: 5px;
+    /* padding-bottom: 15px; */
+    width: 10%;
+    font-size: small;
+    margin-left: 1px;
+
 }
